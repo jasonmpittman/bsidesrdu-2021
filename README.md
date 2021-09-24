@@ -4,6 +4,7 @@
 #### September 24th, 2021
 
 <hr>
+
 #### About the Research
 
 A honeypot is an intentionally vulnerable computing system designed to deceive attackers into revealing their tools and techniques. The objective of deceiving attackers is either to develop new countermeasures or distract them from targeting production systems. But do honeypots work, are they effective in these roles?
